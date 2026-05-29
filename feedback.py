@@ -136,10 +136,10 @@ HR Department
 """
 
     # Sender Email
-    sender_email = 'divyasrimariyappan3@gmail.com'
+    sender_email = 'X@gmail.com'
 
     # Gmail App Password
-    sender_password = 'nhfa fjvg zium habr'
+    sender_password = 'XXXXXXXXXX'
 
     # Create Email
     msg = MIMEText(body)
